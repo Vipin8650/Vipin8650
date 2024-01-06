@@ -1,5 +1,4 @@
 <h2 align="center">Welocome to my GitHub Profile</h2>
-<h1 align="center">Hi, I'm Vipin kushwaha</h1>
 <h2 align="center">Have a Nice! Day</h2>
 <h3 align="left">A passionate and ambitious Electronics Engineer, I am thrilled to embark on a journey of innovation and learning in the field of electronics.</h3>
 
