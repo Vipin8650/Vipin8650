@@ -11,8 +11,8 @@
 
 - 💬 Ask me about **Electronics, Arduino programming**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vipin-kushwaha-676475226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vipin-kushwaha-676475226/" height="30" width="40" /></a>
 <a href="https://instagram.com/techy_boy.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techy_boy.__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techy boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techy boy" height="30" width="40" /></a>
